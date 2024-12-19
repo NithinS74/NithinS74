@@ -11,7 +11,7 @@
   </ul>
 </div>
 
-## <picture><img src = "https://github.com/NithinS74/NithinS74/blob/main/media/tuxLinuxPenguin.gif" width = 25px></picture> About me
+## <picture><img src = "https://github.com/NithinS74/NithinS74/blob/main/media/tuxLinuxPenguin.gif" width = 35px></picture> About me
 
 <picture> <img align="right" src="https://github.com/NithinS74/NithinS74/blob/main/media/crab%26penguin.gif" width = 250px></picture>
 
@@ -74,7 +74,7 @@
 
 
 
-<hr style="border: 1px solid lightgray;">
+<hr style="border: 0.3px solid lightgray;">
 <p align="center">
 <picture> <img align="center" src="https://github.com/NithinS74/NithinS74/blob/main/media/pepeBand.gif" width = 400px></picture>
 
