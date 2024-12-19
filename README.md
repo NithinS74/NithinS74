@@ -14,7 +14,7 @@
 </div>
 
 
-<picture> <img align="right" src="" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/NithinS74/NithinS74/blob/main/media/crab%26penguin.gif" width = 250px></picture>
 
 <br>
 
@@ -40,6 +40,7 @@
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
 ### Scripting:
+&emsp;
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -49,6 +50,7 @@
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 
 ### Operating Systems
+&emsp;
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)
@@ -72,7 +74,7 @@
 
 
 
-<picture> <img align="center" src="" width = 400px></picture>
+<picture> <img align="center" src="https://github.com/NithinS74/NithinS74/blob/main/media/pepeBand.gif" width = 400px></picture>
 
 <h3 align="center" >Connect with me 🤝 </h3>
 
