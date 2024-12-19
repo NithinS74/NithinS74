@@ -1,7 +1,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nitin</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nithin</h1></summary>
   </ul>
 </div>
 
@@ -13,6 +13,7 @@
   </ul>
 </div>
 
+## <picture><img src = "https://github.com/NithinS74/NithinS74/blob/main/media/tuxLinuxPenguin.gif" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/NithinS74/NithinS74/blob/main/media/crab%26penguin.gif" width = 250px></picture>
 
@@ -31,7 +32,7 @@
 
 
   ## 🛠️ My Skills
--------------------
+
 ### Programming languages:
 &emsp;
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
@@ -74,11 +75,12 @@
 
 
 
-<picture> <img align="center" src="https://github.com/NithinS74/NithinS74/blob/main/media/pepeBand.gif" width = 400px></picture>
-
-<h3 align="center" >Connect with me 🤝 </h3>
 
 <p align="center">
+<picture> <img align="center" src="https://github.com/NithinS74/NithinS74/blob/main/media/pepeBand.gif" width = 400px></picture>
+
+
+<h3 align="center" >Connect with me 🤝 </h3>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a   target="_blank" href="https://www.linkedin.com/in/nithins74/">
