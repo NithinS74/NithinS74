@@ -4,12 +4,10 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Nithin</h1></summary>
   </ul>
 </div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Programming isn’t about what you know; it’s about what you can figure out.</h2></summary>
   </ul>
 </div>
 
@@ -75,7 +73,7 @@
 
 
 
-
+<hr>
 <p align="center">
 <picture> <img align="center" src="https://github.com/NithinS74/NithinS74/blob/main/media/pepeBand.gif" width = 400px></picture>
 
