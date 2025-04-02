@@ -20,8 +20,8 @@
 - 🌱 I’m currently exploring Rust with a deep passion for systems programming and backend development.
 - :technologist: I enjoy leveraging Linux and software to `solve challenging problems efficiently`.
 - :nerd_face: Always eager to `learn and experiment` with new technologies.
-- 💬 Ask me about Rust, Linux, or anything tech-related—I’d love to share!
-- :thinking: Open to exciting `opportunities` in backend development and systems programming.
+- 💬 Ask me about Rust, Linux,Cloud or anything tech-related—I’d love to share!
+- :thinking: Open to exciting `opportunities` in backend development, Cloud and systems programming.
 - Feel free to connect with me on LinkedIn 🏆.[LinkedIn](https://www.linkedin.com/in/nithins74/) 🏆.
 
 <br>
